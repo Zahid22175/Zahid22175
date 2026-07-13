@@ -10,7 +10,7 @@ Passionate Frontend Developer from Pakistan 🇵🇰
 
 ---
 
-## 👨‍💻 About Me
+<h1 align="center">## 👨‍💻 About Me</h1>
 
 - 💻 Frontend Developer
 - 🌱 Currently learning React & Firebase
