@@ -36,7 +36,7 @@
 
 I'm a Frontend & Web Developer focused on building **clean, responsive, and user-friendly web applications**.
 
-Recently worked as a **WordPress Developer & SEO Specialist at IT Concepts**, where I built high-performing websites and implemented technical SEO strategies to improve search visibility and user experience.
+Recently worked at **IT Concepts**, where I focused on **WordPress development and technical SEO** to build high-performing websites and improve search visibility.
 
 My recent work includes **ClinicBook (ApexHealth)**, a full-stack hospital management portal built with **JavaScript, Tailwind CSS, and Firebase**. I enjoy working beyond just layouts — integrating real-time databases, managing role-based authentication, and turning requirements into reliable software.
 
