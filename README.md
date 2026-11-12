@@ -1,70 +1,51 @@
-<h1 align="center">Hi 👋, I'm Zahid Hussain</h1>
+<h1 align="center">Zahid Hussain</h1>
 
-<h3 align="center">
-Frontend Developer | JavaScript | React | Firebase
-</h3>
+---
+
+<h3 align="center">Frontend & Web Developer</h3>
 
 <p align="center">
-Passionate Frontend Developer from Pakistan 🇵🇰
+  <b>HTML5 · CSS3 · Tailwind CSS · JavaScript · Firebase · WordPress · SEO</b>
+</p>
+
+<p align="center">
+  Building practical web applications with a focus on <b>responsive design, clean implementation, and real-world problem solving.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Zahid22175" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://zahid22175.github.io/hospital-management-web/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42" alt="Live Demo" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Email" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+## About
 
-<table align="center" width="80%">
-<tr>
-<td><b>🎓 Education</b></td>
-<td>Intermediate in Commerce (Shah Commerce college ,  Karachi)</td>
-</tr>
+I'm a Frontend & Web Developer focused on building **clean, responsive, and user-friendly web applications**.
 
-<tr>
-<td><b>💼 Role</b></td>
-<td>Frontend Developer | Wordpress Developer </td>
-</tr>
+Recently worked as a **WordPress Developer & SEO Specialist at IT Concepts**, where I built high-performing websites and implemented technical SEO strategies to improve search visibility and user experience.
 
-<tr>
-<td><b>🌍 Location</b></td>
-<td>Pakistan 🇵🇰</td>
-</tr>
+My recent work includes **ClinicBook (ApexHealth)**, a full-stack hospital management portal built with **JavaScript, Tailwind CSS, and Firebase**. I enjoy working beyond just layouts — integrating real-time databases, managing role-based authentication, and turning requirements into reliable software.
 
-<tr>
-<td><b>💻 Experience</b></td>
-<td>HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Firebase</td>
-</tr>
-
-<tr>
-<td><b>🎯 Specialization</b></td>
-<td>Web Applications & Admin Dashboards</td>
-</tr>
-</table>
 ---
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
+## Technology
 
-<h3 align="center">💻 Frontend</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" alt="Frontend Skills" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase,wordpress,git,github,vscode" alt="Backend and Tools" />
 </p>
-
-<h3 align="center">⚙️ Backend & Database</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-<h3 align="center">🛠️ Tools</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="[https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)"/>
-</p>
-
-
