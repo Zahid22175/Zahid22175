@@ -25,9 +25,9 @@
     <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42" alt="Live Demo" />
   </a>
   &nbsp;
-  <a href="zahidhussain6012@gmail.com">
+  <a href="mailto:zahidhussain6012@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Email" />
-  </a>
+</a>
 </p>
 
 ---
