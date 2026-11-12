@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/zahid-hussain-88035533a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42" alt="Live Demo" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="zahidhussain6012@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Email" />
   </a>
 </p>
